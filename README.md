@@ -42,7 +42,7 @@ $ sudo python3 ArpScan.py
 
 The following should give a similar output as :
 
-![](https://github.com/whokilleddb/ArpScan/blob/master/Images/SS.png)
+![](https://github.com/whokilleddb/ArpScan/blob/master/Images/SS1.png)
 
 
 To Scan A Network , Enter The Interface Name And The IP Range You Want To Scan.
@@ -52,5 +52,5 @@ $ sudo python3 ARP_Scanner.py wlan0 192.168.0.1/24
 ```
 Once The Scan Is Completed , You Should Get An Output Like This :
 
-![](https://github.com/whokilleddb/iprecon/blob/master/Images/SS.png)
+![](https://github.com/whokilleddb/ArpScan/blob/master/Images/SS.png)
 
